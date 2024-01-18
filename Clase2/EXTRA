@@ -1,0 +1,13 @@
+Ejercicio: Calculadora de Edad
+Crea una página web simple que solicite al usuario su año de nacimiento mediante prompt.
+Luego, utiliza JavaScript para calcular su edad y muestra el resultado en el DOM.
+Además, imprime la edad en la consola del navegador.
+
+Pasos:
+
+Solicita al usuario su año de nacimiento mediante prompt.
+Calcula la edad restando el año actual al año de nacimiento.
+Crea un nuevo elemento de párrafo (<p>) para mostrar la edad.
+Asigna el texto al párrafo con un mensaje que incluya la edad calculada.
+Agrega el párrafo al cuerpo del documento.
+Imprime la edad en la consola del navegador.
